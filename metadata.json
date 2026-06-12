@@ -1,0 +1,6 @@
+{
+  "name": "HMT Design",
+  "description": "Custom DJ Drops, DJ Intros, Radio Sweepers, Voice Tags and Audio Branding.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
